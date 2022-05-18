@@ -1,5 +1,5 @@
 ### Mariana Machado 
-#### Architect | Student of System Analysis and Development
+#### Architect | System Analysis and Development Student
 
 Changing to IT career...
 
