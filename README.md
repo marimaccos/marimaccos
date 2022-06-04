@@ -4,6 +4,7 @@
 Changing to IT career...
 
 🌱 Learning: C/C++, JavaScript, HTML, CSS, Python...
+
 🔭 I’m currently working on improving my skills.   
 👯 I’m looking to collaborate on fun projects that help me learning about development! 
 
