@@ -3,8 +3,8 @@
 
 Changing to IT career...
 
-🌱 Learning: C/C++ and Web development  
-💡  I'm interested about Technology, Electronic, Games, Music, Series and Animes  
+🌱 Learning: C/C++ and Java. 
+💡  I'm interested about Technology, Electronic, Games, Music, Series and Animes.  
 🔭 I’m currently working on improving my skills.  
 👯 I’m looking to collaborate on fun projects that help me learning about development! 
 
