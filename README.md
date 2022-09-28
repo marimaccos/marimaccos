@@ -1,9 +1,9 @@
 ### Mariana Machado 
-#### Architect | System Analysis and Development Student
+#### System Analysis and Development Student | Architect
 
 Changing to IT career...
 
-🌱 Learning: C/C++ and Java.   
+🌱 Learning: Java, C/C++ and Git.   
 💡  I'm interested about Technology, Electronic, Games, Music, Series and Animes.  
 🔭 I’m currently working on improving my skills.  
 👯 I’m looking to collaborate on fun projects that help me learning about development! 
