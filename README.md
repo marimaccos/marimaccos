@@ -1,9 +1,9 @@
 ### Mariana Machado 
-#### System Analysis and Development Student | Architect
+#### Full-Stack Developer | Architect
 
-Changing to IT career...
-
-🌱 Learning: Java, C/C++ and Git.   
+💼 Working with .NET, C#, Angular, SQL.
+🌱 Learning: Python, Clean Code, SOLID...
+🧠 Knowledge of Java, C/C++, Oracle, Spring... 
 💡  I'm interested about Technology, Electronic, Games, Music, Series and Animes.  
 🔭 I’m currently working on improving my skills.  
 👯 I’m looking to collaborate on fun projects that help me learning about development! 
